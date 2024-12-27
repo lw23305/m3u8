@@ -206,19 +206,9 @@ https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3d
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
 #EXTINF:-1 group-title="港澳频道",无线台
-https://stream1.freetv.fun/b1feaaf52b422e940f5a234a921e8bf90bcd32a6678ec37f2393350c6c5de45c.ctv
-#EXTINF:-1 group-title="港澳频道",无线台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="港澳频道",无线台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="港澳频道",无线台
-https://stream1.freetv.fun/wu-xian-xin-wen-3.ctv
-#EXTINF:-1 group-title="港澳频道",财经台
-https://stream1.freetv.fun/wu-xian-cai-jing-2.ctv
-#EXTINF:-1 group-title="港澳频道",翡翠台
-https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳频道",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="港澳频道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港澳频道",翡翠台
