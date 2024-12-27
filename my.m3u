@@ -245,6 +245,9 @@ http://121.19.134.222:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.130.84.106:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://101.65.33.225:9901/tsfile/live/0019_1.m3u8
+http://58.208.124.54:4022/rtp/239.49.8.142:6000
+http://122.231.176.125:4022/udp/233.50.200.190:5140
+http://183.31.11.50:8000/udp/239.77.0.88:5146
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
