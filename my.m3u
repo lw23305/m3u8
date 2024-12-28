@@ -172,6 +172,16 @@ http://221.2.148.205:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://121.19.134.222:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
+http://itv.mytvsuper.xyz/6000000001000018044/wasusyt/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://itv.mytvsuper.xyz/1000000001000032695/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://itv.mytvsuper.xyz/1000000005000265024/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://itv.mytvsuper.xyz/5000000010000030452/bestzb/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://itv.mytvsuper.xyz/1000000001000009115/ystenlive/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://58.208.124.54:4022/rtp/239.49.8.142:6000
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://122.231.176.125:4022/udp/233.50.200.190:5140
@@ -203,6 +213,8 @@ https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb
 https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
+https://iptv.vip-tptv.xyz/youtube.php?id=HFib76ySpbU
 #EXTINF:-1 group-title="港澳频道",无线台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港澳频道",无线台
