@@ -184,6 +184,8 @@ http://itv.mytvsuper.xyz/1000000001000009115/ystenlive/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://58.208.124.54:4022/rtp/239.49.8.142:6000
 #EXTINF:-1 group-title="卫视频道",湖南卫视
+http://221.237.171.209:8888/udp/239.93.0.88:5140
+#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://122.231.176.125:4022/udp/233.50.200.190:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
