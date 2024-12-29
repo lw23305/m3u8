@@ -229,3 +229,11 @@ http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg",[BD]东森美洲新闻
+https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105725450147_96.png",[HD]东森财经[geo-blocked]
+https://stream1.freetv.fun/dong-sen-cai-jing-1.m3u8
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png",[BD]纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-6.ctv
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png",[BD]纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-1.ctv
