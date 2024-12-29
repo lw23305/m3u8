@@ -177,29 +177,23 @@ https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff
 https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-23.m3u8
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-16.ctv
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-6.m3u8
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-11.ctv
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",[BD]凤凰资讯
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
-https://stream1.freetv.fun/tvbsxin-wen-1.ctv
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
-https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg",[BD]tvb无线新闻
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
 https://stream1.freetv.fun/tvbwu-xian-xin-wen-2.ctv
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -211,4 +205,10 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
+https://stream1.freetv.fun/tvbsxin-wen-1.ctv
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
+https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 
