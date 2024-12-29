@@ -134,6 +134,10 @@ http://221.2.148.205:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://121.19.134.222:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
+http://14.117.233.243:9000/udp/239.77.0.88:5146
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://14.112.86.85:4022/udp/239.77.1.5:5146
+#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://itv.mytvsuper.xyz/6000000001000018044/wasusyt/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://itv.mytvsuper.xyz/1000000001000032695/ystenlive/index.m3u8
