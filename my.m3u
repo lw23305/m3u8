@@ -133,6 +133,26 @@ http://222.243.221.54:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=
 http://221.2.148.205:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://121.19.134.222:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[BD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-32.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[BD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-54.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[SD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-23.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[SD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-24.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[BD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-25.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[BD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-26.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[SD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-gao-qing-2.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[BD]湖南卫视，
+https://stream1.freetv.fun/hu-nan-wei-shi-65.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[SD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-69.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",[SD]湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi--4m-2.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://14.117.233.243:9000/udp/239.77.0.88:5146
 #EXTINF:-1 group-title="卫视频道",湖南卫视
@@ -155,7 +175,7 @@ http://122.231.176.125:4022/udp/233.50.200.190:5140
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 https://stream1.freetv.fun/zhe-jiang-wei-shi-gao-qing-2.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",[SD]浙江卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",[BD]浙江卫视
 https://stream1.freetv.fun/zhe-jiang-wei-shi-29.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",[BD]浙江卫视
 https://stream1.freetv.fun/zhe-jiang-wei-shi-88.ctv
