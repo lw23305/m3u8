@@ -153,6 +153,18 @@ http://221.237.171.209:8888/udp/239.93.0.88:5140
 http://122.231.176.125:4022/udp/233.50.200.190:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://stream1.freetv.fun/zhe-jiang-wei-shi-gao-qing-2.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",[SD]浙江卫视
+https://stream1.freetv.fun/zhe-jiang-wei-shi-29.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",[BD]浙江卫视
+https://stream1.freetv.fun/zhe-jiang-wei-shi-88.ctv
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",[BD]浙江卫视
+https://stream1.freetv.fun/zhe-jiang-wei-shi-7.ctv
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",[BD]浙江卫视
+https://stream1.freetv.fun/zhe-jiang-wei-shi-21.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226202302784448_86.png",[BD]浙江卫视 
+https://stream1.freetv.fun/zhe-jiang-wei-shi--8m-3.m3u8
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
