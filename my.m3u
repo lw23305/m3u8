@@ -202,17 +202,9 @@ https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
-https://stream1.freetv.fun/tvbwu-xian-xin-wen-2.ctv
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
 https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
-https://stream1.freetv.fun/wu-xian-xin-wen-5.ctv
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.iill.top/logo/YouTube.png",東森新聞
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png",中天新聞台
@@ -221,3 +213,7 @@ http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
 https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png",TVBS新聞
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
