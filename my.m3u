@@ -107,14 +107,6 @@ http://61.156.228.12:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.2.148.205:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 https://stream1.freetv.fun/hu-nan-wei-shi-54.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://14.112.86.85:4022/udp/239.77.1.5:5146
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=2025
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://42.48.2.223:808/hls/28/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
