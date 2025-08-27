@@ -11,6 +11,10 @@ https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1755401429&token=6df1ba835fc0bc0366378a21228d38ee
+#EXTINF:-1 group-title="港澳频道",凤凰资讯
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1755401429&token=8dec3761c26f147eda498cedd8a50569
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
 https://live.tvfix.org/live/inews/index.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
@@ -21,16 +25,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1755401429&token=3ab31096d8cce41d672c2539b7806903
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
 https://stream.iptv-search.com/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1755401429&token=d7ed8cca826ea43fcb11c04734cf0454
+#EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
+https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://221.205.206.85:9003/hls/1/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://61.156.228.12:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://61.156.228.12:8154/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://223.241.247.214:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV3
