@@ -86,9 +86,15 @@ http://61.156.228.12:8154/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV13
+http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13
 http://61.156.228.12:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://118.81.193.194:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://115.58.122.81:8812/cctv13.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 
 
 
