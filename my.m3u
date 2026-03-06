@@ -28,7 +28,7 @@ rtmp://61.184.240.184/live/yifatv-wxxw01
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
 https://t.freetv.fun/live/wu-xian-xin-wen-2.php
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
-https://stream.iptv-search.com/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1755401429&token=d7ed8cca826ea43fcb11c04734cf0454
+http://74.91.26.218:82/live/inews.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",無線新聞台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
